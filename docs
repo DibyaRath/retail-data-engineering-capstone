@@ -1,1 +1,8 @@
 
+# Retail Data Engineering Capstone
+
+This project demonstrates how to build a batch data processing pipeline for retail analytics.
+
+Pipeline Architecture:
+
+Source → Data Lake → PySpark Processing → Analytics Tables
